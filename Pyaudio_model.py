@@ -1,0 +1,2 @@
+
+def pyaudio_transcriptor():
